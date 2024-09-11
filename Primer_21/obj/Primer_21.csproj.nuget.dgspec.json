@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Transcend\\Проект3\\Primer_21\\Primer_21.csproj": {}
+    "F:\\Transcend\\Проект21\\Primer_21\\Primer_21.csproj": {}
   },
   "projects": {
-    "E:\\Transcend\\Проект3\\Primer_21\\Primer_21.csproj": {
+    "F:\\Transcend\\Проект21\\Primer_21\\Primer_21.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Transcend\\Проект3\\Primer_21\\Primer_21.csproj",
+        "projectUniqueName": "F:\\Transcend\\Проект21\\Primer_21\\Primer_21.csproj",
         "projectName": "Primer_21",
-        "projectPath": "E:\\Transcend\\Проект3\\Primer_21\\Primer_21.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\Transcend\\Проект3\\Primer_21\\obj\\",
+        "projectPath": "F:\\Transcend\\Проект21\\Primer_21\\Primer_21.csproj",
+        "packagesPath": "C:\\Users\\j-classroom\\.nuget\\packages\\",
+        "outputPath": "F:\\Transcend\\Проект21\\Primer_21\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\j-classroom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,6 +48,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.10, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.12, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -78,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
