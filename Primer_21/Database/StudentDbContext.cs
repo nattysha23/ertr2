@@ -7,8 +7,8 @@ namespace Primer_21.Database
 {
     public class StudentDbContext : DbContext
     {//Добавляем таблицы
-        DbSet<Student> Students { get; set; }
-        DbSet<Group> Groups { get; set; }
+        public DbSet<Student> Students { get; set; }
+        public DbSet<Group> Groups { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

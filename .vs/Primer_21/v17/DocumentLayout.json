@@ -1,9 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\",
+  "WorkspaceRootPath": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|f:\\transcend\\\u043F\u0440\u043E\u0435\u043A\u044221\\primer_21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|e:\\transcend\\\u043F\u0440\u043E\u0435\u043A\u044221\\primer_21\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|solutionrelative:primer_21\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|e:\\transcend\\\u043F\u0440\u043E\u0435\u043A\u044221\\primer_21\\interfaces\\studentinterfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|solutionrelative:primer_21\\interfaces\\studentinterfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|e:\\transcend\\\u043F\u0440\u043E\u0435\u043A\u044221\\primer_21\\database\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|solutionrelative:primer_21\\database\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|e:\\transcend\\\u043F\u0440\u043E\u0435\u043A\u044221\\primer_21\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|solutionrelative:primer_21\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|e:\\transcend\\\u043F\u0440\u043E\u0435\u043A\u044221\\primer_21\\database\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|solutionrelative:primer_21\\database\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|e:\\transcend\\\u043F\u0440\u043E\u0435\u043A\u044221\\primer_21\\filters\\studentfilters\\studentsgroupfiltername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|solutionrelative:primer_21\\filters\\studentfilters\\studentsgroupfiltername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|e:\\transcend\\\u043F\u0440\u043E\u0435\u043A\u044221\\primer_21\\filters\\studentfilters\\studentsgroupfilterid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|solutionrelative:primer_21\\filters\\studentfilters\\studentsgroupfilterid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|e:\\transcend\\\u043F\u0440\u043E\u0435\u043A\u044221\\primer_21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED5AB359-F117-4B19-8AFD-EE4854DA1372}|Primer_21\\Primer_21.csproj|solutionrelative:primer_21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -17,22 +45,105 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Interfaces\\StudentInterfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Primer_21\\Interfaces\\StudentInterfaces\\IStudentService.cs",
+              "ToolTip": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Interfaces\\StudentInterfaces\\IStudentService.cs",
+              "RelativeToolTip": "Primer_21\\Interfaces\\StudentInterfaces\\IStudentService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:59:31.93Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Database\\Configurations\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "Primer_21\\Database\\Configurations\\StudentConfiguration.cs",
+              "ToolTip": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Database\\Configurations\\StudentConfiguration.cs",
+              "RelativeToolTip": "Primer_21\\Database\\Configurations\\StudentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:58:59.181Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Primer_21\\Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Primer_21\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:58:29.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Primer_21\\Models\\Student.cs",
+              "ToolTip": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Models\\Student.cs",
+              "RelativeToolTip": "Primer_21\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:58:23.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Database\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "Primer_21\\Database\\StudentDbContext.cs",
+              "ToolTip": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Database\\StudentDbContext.cs",
+              "RelativeToolTip": "Primer_21\\Database\\StudentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:57:57.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentsGroupFilterName.cs",
+              "DocumentMoniker": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Filters\\StudentFilters\\StudentsGroupFilterName.cs",
+              "RelativeDocumentMoniker": "Primer_21\\Filters\\StudentFilters\\StudentsGroupFilterName.cs",
+              "ToolTip": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Filters\\StudentFilters\\StudentsGroupFilterName.cs",
+              "RelativeToolTip": "Primer_21\\Filters\\StudentFilters\\StudentsGroupFilterName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:57:46.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsGroupFilterID.cs",
+              "DocumentMoniker": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Filters\\StudentFilters\\StudentsGroupFilterID.cs",
+              "RelativeDocumentMoniker": "Primer_21\\Filters\\StudentFilters\\StudentsGroupFilterID.cs",
+              "ToolTip": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Filters\\StudentFilters\\StudentsGroupFilterID.cs",
+              "RelativeToolTip": "Primer_21\\Filters\\StudentFilters\\StudentsGroupFilterID.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:57:32.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Program.cs",
+              "DocumentMoniker": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Program.cs",
               "RelativeDocumentMoniker": "Primer_21\\Program.cs",
-              "ToolTip": "F:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Program.cs",
+              "ToolTip": "E:\\Transcend\\\u041F\u0440\u043E\u0435\u043A\u044221\\Primer_21\\Program.cs",
               "RelativeToolTip": "Primer_21\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T14:56:16.02Z",
               "EditorCaption": ""

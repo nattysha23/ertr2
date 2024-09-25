@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Primer_21.Controllers.StudentsController",
+    "Method": "GetStudentsByGroupIDAsync",
+    "RelativePath": "Students",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filter",
+        "Type": "Primer_21.Filters.StudentFilters.StudentsGroupFilterID",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Primer_21.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
@@ -10,6 +26,32 @@
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.IEnumerable\u00601[[Primer_21.WeatherForecast, Primer_21, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Primer_21.Controllers.WeatherForecastController",
+    "Method": "AddNewSummary",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NewSummary",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String[]",
         "MediaTypes": [
           "text/plain",
           "application/json",

@@ -3,6 +3,10 @@ using Microsoft.Extensions.Logging;
 using NLog;
 using NLog.Web;
 using Primer_21.Database;
+using Primer_21.Interfaces;
+using NLog;
+using NLog.Web;
+using static Primer_21.ServiceExtensions.ServiceExtensions;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -22,7 +26,7 @@ try
     builder.Services.AddDbContext<StudentDbContext>(options =>
         options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-   // builder.Services.AddServices();
+    builder.Services.AddServices();
 
     var app = builder.Build();
 
